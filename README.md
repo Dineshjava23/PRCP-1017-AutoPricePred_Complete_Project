@@ -48,7 +48,7 @@ PRCP-1017-AutoPricePred/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com<your-username>/PRCP-1017-AutoPricePred.git
+git clone https://github.com<Dineshjava23>/PRCP-1017-AutoPricePred.git
 cd PRCP-1017-AutoPricePred
 ```
 
